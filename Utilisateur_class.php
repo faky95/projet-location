@@ -28,7 +28,7 @@ var $Numeropiece;
             die('Erreur : ' . $e->getMessage());
         }
     }
-/************ADD USER*******************/ 
+/************ADD USER********************/ 
  public function addUser()
  {
     $this->getConnexion();
