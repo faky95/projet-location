@@ -19,7 +19,7 @@
   <h2 class="text-uppercase text-success">Page de Connection</h2>
   <form method="POST" class="form-horizontal" action="#">
     <div class="form-group">
-      <label class="control-label col-sm-2" for="">profil:</label>
+      <label class="control-label col-sm-2" for="">profil</label>
       <div class="col-lg-6">
         <input type="text" class="form-control" id="profil" placeholder="profil" name="profil">
       </div>
